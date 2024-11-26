@@ -1,0 +1,1955 @@
+[
+  {
+    "value": "河南省",
+    "label": "河南省",
+    "children": [
+      { "label": "河南省本级", "value": "河南省本级", "children": [] },
+      {
+        "value": "洛阳市",
+        "label": "洛阳市",
+        "children": [
+          { "label": "洛阳市本级", "value": "洛阳市本级", "children": [] },
+          { "value": "栾川县", "label": "栾川县", "children": [] },
+          { "value": "新安县", "label": "新安县", "children": [] },
+          { "value": "偃师区", "label": "偃师区", "children": [] },
+          { "value": "瀍河回族区", "label": "瀍河回族区", "children": [] },
+          { "value": "洛龙区", "label": "洛龙区", "children": [] },
+          { "value": "嵩县", "label": "嵩县", "children": [] },
+          { "value": "涧西区", "label": "涧西区", "children": [] },
+          { "value": "伊川县", "label": "伊川县", "children": [] },
+          { "value": "孟津区", "label": "孟津区", "children": [] },
+          { "value": "西工区", "label": "西工区", "children": [] },
+          { "value": "老城区", "label": "老城区", "children": [] },
+          { "value": "汝阳县", "label": "汝阳县", "children": [] },
+          { "value": "洛宁县", "label": "洛宁县", "children": [] },
+          { "value": "宜阳县", "label": "宜阳县", "children": [] }
+        ]
+      },
+      {
+        "value": "三门峡市",
+        "label": "三门峡市",
+        "children": [
+          { "label": "三门峡市本级", "value": "三门峡市本级", "children": [] },
+          { "value": "卢氏县", "label": "卢氏县", "children": [] },
+          { "value": "湖滨区", "label": "湖滨区", "children": [] },
+          { "value": "渑池县", "label": "渑池县", "children": [] },
+          { "value": "义马市", "label": "义马市", "children": [] },
+          { "value": "灵宝市", "label": "灵宝市", "children": [] },
+          { "value": "陕州区", "label": "陕州区", "children": [] }
+        ]
+      },
+      {
+        "value": "漯河市",
+        "label": "漯河市",
+        "children": [
+          { "label": "漯河市本级", "value": "漯河市本级", "children": [] },
+          { "value": "召陵区", "label": "召陵区", "children": [] },
+          { "value": "临颍县", "label": "临颍县", "children": [] },
+          { "value": "源汇区", "label": "源汇区", "children": [] },
+          { "value": "舞阳县", "label": "舞阳县", "children": [] },
+          { "value": "郾城区", "label": "郾城区", "children": [] }
+        ]
+      },
+      {
+        "value": "许昌市",
+        "label": "许昌市",
+        "children": [
+          { "label": "许昌市本级", "value": "许昌市本级", "children": [] },
+          { "value": "建安区", "label": "建安区", "children": [] },
+          { "value": "鄢陵县", "label": "鄢陵县", "children": [] },
+          { "value": "禹州市", "label": "禹州市", "children": [] },
+          { "value": "长葛市", "label": "长葛市", "children": [] },
+          { "value": "襄城县", "label": "襄城县", "children": [] },
+          { "value": "魏都区", "label": "魏都区", "children": [] }
+        ]
+      },
+      {
+        "value": "南阳市",
+        "label": "南阳市",
+        "children": [
+          { "label": "南阳市本级", "value": "南阳市本级", "children": [] },
+          { "value": "唐河县", "label": "唐河县", "children": [] },
+          { "value": "南召县", "label": "南召县", "children": [] },
+          { "value": "西峡县", "label": "西峡县", "children": [] },
+          { "value": "卧龙区", "label": "卧龙区", "children": [] },
+          { "value": "镇平县", "label": "镇平县", "children": [] },
+          { "value": "淅川县", "label": "淅川县", "children": [] },
+          { "value": "内乡县", "label": "内乡县", "children": [] },
+          { "value": "宛城区", "label": "宛城区", "children": [] },
+          { "value": "桐柏县", "label": "桐柏县", "children": [] },
+          { "value": "邓州市", "label": "邓州市", "children": [] },
+          { "value": "新野县", "label": "新野县", "children": [] },
+          { "value": "社旗县", "label": "社旗县", "children": [] },
+          { "value": "方城县", "label": "方城县", "children": [] }
+        ]
+      },
+      {
+        "value": "信阳市",
+        "label": "信阳市",
+        "children": [
+          { "label": "信阳市本级", "value": "信阳市本级", "children": [] },
+          { "value": "罗山县", "label": "罗山县", "children": [] },
+          { "value": "淮滨县", "label": "淮滨县", "children": [] },
+          { "value": "商城县", "label": "商城县", "children": [] },
+          { "value": "浉河区", "label": "浉河区", "children": [] },
+          { "value": "固始县", "label": "固始县", "children": [] },
+          { "value": "平桥区", "label": "平桥区", "children": [] },
+          { "value": "潢川县", "label": "潢川县", "children": [] },
+          { "value": "光山县", "label": "光山县", "children": [] },
+          { "value": "息县", "label": "息县", "children": [] },
+          { "value": "新县", "label": "新县", "children": [] }
+        ]
+      },
+      {
+        "value": "济源市",
+        "label": "济源市",
+        "children": [
+          { "label": "济源市本级", "value": "济源市本级", "children": [] },
+          { "value": "济源市坡头镇", "label": "济源市坡头镇", "children": [] },
+          { "value": "济源市梨林镇", "label": "济源市梨林镇", "children": [] },
+          { "value": "济源市大峪镇", "label": "济源市大峪镇", "children": [] },
+          { "value": "济源市思礼镇", "label": "济源市思礼镇", "children": [] },
+          {
+            "value": "济源市五龙口镇",
+            "label": "济源市五龙口镇",
+            "children": []
+          },
+          { "value": "济源市王屋镇", "label": "济源市王屋镇", "children": [] },
+          {
+            "value": "济源市玉泉街道",
+            "label": "济源市玉泉街道",
+            "children": []
+          },
+          { "value": "济源市轵城镇", "label": "济源市轵城镇", "children": [] },
+          {
+            "value": "济源市济水街道",
+            "label": "济源市济水街道",
+            "children": []
+          },
+          {
+            "value": "济源市沁园街道",
+            "label": "济源市沁园街道",
+            "children": []
+          },
+          { "value": "济源市下冶镇", "label": "济源市下冶镇", "children": [] },
+          { "value": "济源市克井镇", "label": "济源市克井镇", "children": [] },
+          {
+            "value": "济源市天坛街道",
+            "label": "济源市天坛街道",
+            "children": []
+          },
+          { "value": "济源市邵原镇", "label": "济源市邵原镇", "children": [] },
+          {
+            "value": "济源市北海街道",
+            "label": "济源市北海街道",
+            "children": []
+          },
+          { "value": "济源市承留镇", "label": "济源市承留镇", "children": [] }
+        ]
+      },
+      {
+        "value": "濮阳市",
+        "label": "濮阳市",
+        "children": [
+          { "label": "濮阳市本级", "value": "濮阳市本级", "children": [] },
+          { "value": "南乐县", "label": "南乐县", "children": [] },
+          { "value": "台前县", "label": "台前县", "children": [] },
+          { "value": "范县", "label": "范县", "children": [] },
+          { "value": "华龙区", "label": "华龙区", "children": [] },
+          { "value": "清丰县", "label": "清丰县", "children": [] },
+          { "value": "濮阳县", "label": "濮阳县", "children": [] }
+        ]
+      },
+      {
+        "value": "驻马店市",
+        "label": "驻马店市",
+        "children": [
+          { "label": "驻马店市本级", "value": "驻马店市本级", "children": [] },
+          { "value": "新蔡县", "label": "新蔡县", "children": [] },
+          { "value": "泌阳县", "label": "泌阳县", "children": [] },
+          { "value": "遂平县", "label": "遂平县", "children": [] },
+          { "value": "确山县", "label": "确山县", "children": [] },
+          { "value": "驿城区", "label": "驿城区", "children": [] },
+          { "value": "正阳县", "label": "正阳县", "children": [] },
+          { "value": "上蔡县", "label": "上蔡县", "children": [] },
+          { "value": "西平县", "label": "西平县", "children": [] },
+          { "value": "汝南县", "label": "汝南县", "children": [] },
+          { "value": "平舆县", "label": "平舆县", "children": [] }
+        ]
+      },
+      {
+        "value": "鹤壁市",
+        "label": "鹤壁市",
+        "children": [
+          { "label": "鹤壁市本级", "value": "鹤壁市本级", "children": [] },
+          { "value": "淇县", "label": "淇县", "children": [] },
+          { "value": "浚县", "label": "浚县", "children": [] },
+          { "value": "山城区", "label": "山城区", "children": [] },
+          { "value": "鹤山区", "label": "鹤山区", "children": [] },
+          { "value": "淇滨区", "label": "淇滨区", "children": [] }
+        ]
+      },
+      {
+        "value": "郑州市",
+        "label": "郑州市",
+        "children": [
+          { "label": "郑州市本级", "value": "郑州市本级", "children": [] },
+          { "value": "登封市", "label": "登封市", "children": [] },
+          { "value": "新郑市", "label": "新郑市", "children": [] },
+          { "value": "上街区", "label": "上街区", "children": [] },
+          { "value": "中牟县", "label": "中牟县", "children": [] },
+          { "value": "惠济区", "label": "惠济区", "children": [] },
+          { "value": "巩义市", "label": "巩义市", "children": [] },
+          { "value": "金水区", "label": "金水区", "children": [] },
+          { "value": "管城回族区", "label": "管城回族区", "children": [] },
+          { "value": "二七区", "label": "二七区", "children": [] },
+          { "value": "中原区", "label": "中原区", "children": [] },
+          { "value": "新密市", "label": "新密市", "children": [] },
+          { "value": "荥阳市", "label": "荥阳市", "children": [] }
+        ]
+      },
+      {
+        "value": "焦作市",
+        "label": "焦作市",
+        "children": [
+          { "label": "焦作市本级", "value": "焦作市本级", "children": [] },
+          { "value": "马村区", "label": "马村区", "children": [] },
+          { "value": "沁阳市", "label": "沁阳市", "children": [] },
+          { "value": "孟州市", "label": "孟州市", "children": [] },
+          { "value": "博爱县", "label": "博爱县", "children": [] },
+          { "value": "修武县", "label": "修武县", "children": [] },
+          { "value": "中站区", "label": "中站区", "children": [] },
+          { "value": "温县", "label": "温县", "children": [] },
+          { "value": "武陟县", "label": "武陟县", "children": [] },
+          { "value": "解放区", "label": "解放区", "children": [] },
+          { "value": "山阳区", "label": "山阳区", "children": [] }
+        ]
+      },
+      {
+        "value": "开封市",
+        "label": "开封市",
+        "children": [
+          { "label": "开封市本级", "value": "开封市本级", "children": [] },
+          { "value": "杞县", "label": "杞县", "children": [] },
+          { "value": "禹王台区", "label": "禹王台区", "children": [] },
+          { "value": "祥符区", "label": "祥符区", "children": [] },
+          { "value": "通许县", "label": "通许县", "children": [] },
+          { "value": "龙亭区", "label": "龙亭区", "children": [] },
+          { "value": "鼓楼区", "label": "鼓楼区", "children": [] },
+          { "value": "顺河回族区", "label": "顺河回族区", "children": [] },
+          { "value": "尉氏县", "label": "尉氏县", "children": [] },
+          { "value": "兰考县", "label": "兰考县", "children": [] }
+        ]
+      },
+      {
+        "value": "安阳市",
+        "label": "安阳市",
+        "children": [
+          { "label": "安阳市本级", "value": "安阳市本级", "children": [] },
+          { "value": "内黄县", "label": "内黄县", "children": [] },
+          { "value": "北关区", "label": "北关区", "children": [] },
+          { "value": "龙安区", "label": "龙安区", "children": [] },
+          { "value": "林州市", "label": "林州市", "children": [] },
+          { "value": "汤阴县", "label": "汤阴县", "children": [] },
+          { "value": "文峰区", "label": "文峰区", "children": [] },
+          { "value": "安阳县", "label": "安阳县", "children": [] },
+          { "value": "滑县", "label": "滑县", "children": [] },
+          { "value": "殷都区", "label": "殷都区", "children": [] }
+        ]
+      },
+      {
+        "value": "新乡市",
+        "label": "新乡市",
+        "children": [
+          { "label": "新乡市本级", "value": "新乡市本级", "children": [] },
+          { "value": "凤泉区", "label": "凤泉区", "children": [] },
+          { "value": "牧野区", "label": "牧野区", "children": [] },
+          { "value": "卫滨区", "label": "卫滨区", "children": [] },
+          { "value": "获嘉县", "label": "获嘉县", "children": [] },
+          { "value": "新乡县", "label": "新乡县", "children": [] },
+          { "value": "原阳县", "label": "原阳县", "children": [] },
+          { "value": "封丘县", "label": "封丘县", "children": [] },
+          { "value": "红旗区", "label": "红旗区", "children": [] },
+          { "value": "卫辉市", "label": "卫辉市", "children": [] },
+          { "value": "延津县", "label": "延津县", "children": [] },
+          { "value": "长垣市", "label": "长垣市", "children": [] },
+          { "value": "辉县市", "label": "辉县市", "children": [] }
+        ]
+      },
+      {
+        "value": "商丘市",
+        "label": "商丘市",
+        "children": [
+          { "label": "商丘市本级", "value": "商丘市本级", "children": [] },
+          { "value": "宁陵县", "label": "宁陵县", "children": [] },
+          { "value": "永城市", "label": "永城市", "children": [] },
+          { "value": "睢县", "label": "睢县", "children": [] },
+          { "value": "夏邑县", "label": "夏邑县", "children": [] },
+          { "value": "柘城县", "label": "柘城县", "children": [] },
+          { "value": "虞城县", "label": "虞城县", "children": [] },
+          { "value": "民权县", "label": "民权县", "children": [] },
+          { "value": "睢阳区", "label": "睢阳区", "children": [] },
+          { "value": "梁园区", "label": "梁园区", "children": [] }
+        ]
+      },
+      {
+        "value": "平顶山市",
+        "label": "平顶山市",
+        "children": [
+          { "label": "平顶山市本级", "value": "平顶山市本级", "children": [] },
+          { "value": "卫东区", "label": "卫东区", "children": [] },
+          { "value": "鲁山县", "label": "鲁山县", "children": [] },
+          { "value": "湛河区", "label": "湛河区", "children": [] },
+          { "value": "舞钢市", "label": "舞钢市", "children": [] },
+          { "value": "叶县", "label": "叶县", "children": [] },
+          { "value": "新华区", "label": "新华区", "children": [] },
+          { "value": "石龙区", "label": "石龙区", "children": [] },
+          { "value": "汝州市", "label": "汝州市", "children": [] },
+          { "value": "郏县", "label": "郏县", "children": [] },
+          { "value": "宝丰县", "label": "宝丰县", "children": [] }
+        ]
+      },
+      {
+        "value": "周口市",
+        "label": "周口市",
+        "children": [
+          { "label": "周口市本级", "value": "周口市本级", "children": [] },
+          { "value": "项城市", "label": "项城市", "children": [] },
+          { "value": "商水县", "label": "商水县", "children": [] },
+          { "value": "川汇区", "label": "川汇区", "children": [] },
+          { "value": "鹿邑县", "label": "鹿邑县", "children": [] },
+          { "value": "郸城县", "label": "郸城县", "children": [] },
+          { "value": "西华县", "label": "西华县", "children": [] },
+          { "value": "淮阳区", "label": "淮阳区", "children": [] },
+          { "value": "扶沟县", "label": "扶沟县", "children": [] },
+          { "value": "太康县", "label": "太康县", "children": [] },
+          { "value": "沈丘县", "label": "沈丘县", "children": [] }
+        ]
+      }
+    ]
+  },
+  {
+    "value": "湖北省",
+    "label": "湖北省",
+    "children": [
+      { "label": "湖北省本级", "value": "湖北省本级", "children": [] },
+      {
+        "value": "十堰市",
+        "label": "十堰市",
+        "children": [
+          { "label": "十堰市本级", "value": "十堰市本级", "children": [] },
+          { "value": "张湾区", "label": "张湾区", "children": [] },
+          { "value": "茅箭区", "label": "茅箭区", "children": [] },
+          { "value": "郧阳区", "label": "郧阳区", "children": [] },
+          { "value": "丹江口市", "label": "丹江口市", "children": [] },
+          { "value": "竹溪县", "label": "竹溪县", "children": [] },
+          { "value": "房县", "label": "房县", "children": [] },
+          { "value": "竹山县", "label": "竹山县", "children": [] },
+          { "value": "郧西县", "label": "郧西县", "children": [] }
+        ]
+      },
+      {
+        "value": "襄阳市",
+        "label": "襄阳市",
+        "children": [
+          { "label": "襄阳市本级", "value": "襄阳市本级", "children": [] },
+          { "value": "谷城县", "label": "谷城县", "children": [] },
+          { "value": "老河口市", "label": "老河口市", "children": [] },
+          { "value": "枣阳市", "label": "枣阳市", "children": [] },
+          { "value": "保康县", "label": "保康县", "children": [] },
+          { "value": "宜城市", "label": "宜城市", "children": [] },
+          { "value": "襄城区", "label": "襄城区", "children": [] },
+          { "value": "樊城区", "label": "樊城区", "children": [] },
+          { "value": "南漳县", "label": "南漳县", "children": [] },
+          { "value": "襄州区", "label": "襄州区", "children": [] }
+        ]
+      },
+      {
+        "value": "天门市",
+        "label": "天门市",
+        "children": [
+          { "label": "天门市本级", "value": "天门市本级", "children": [] },
+          { "value": "胡市镇", "label": "胡市镇", "children": [] },
+          { "value": "黄潭镇", "label": "黄潭镇", "children": [] },
+          { "value": "多祥镇", "label": "多祥镇", "children": [] },
+          { "value": "沉湖管委会", "label": "沉湖管委会", "children": [] },
+          { "value": "干驿镇", "label": "干驿镇", "children": [] },
+          { "value": "马湾镇", "label": "马湾镇", "children": [] },
+          { "value": "横林镇", "label": "横林镇", "children": [] },
+          { "value": "小板镇", "label": "小板镇", "children": [] },
+          { "value": "蒋湖农场", "label": "蒋湖农场", "children": [] },
+          { "value": "岳口镇", "label": "岳口镇", "children": [] },
+          { "value": "多宝镇", "label": "多宝镇", "children": [] },
+          { "value": "蒋场镇", "label": "蒋场镇", "children": [] },
+          { "value": "石家河镇", "label": "石家河镇", "children": [] },
+          { "value": "彭市镇", "label": "彭市镇", "children": [] },
+          { "value": "佛子山镇", "label": "佛子山镇", "children": [] },
+          { "value": "九真镇", "label": "九真镇", "children": [] },
+          { "value": "竟陵街道", "label": "竟陵街道", "children": [] },
+          { "value": "麻洋镇", "label": "麻洋镇", "children": [] },
+          { "value": "候口街道", "label": "候口街道", "children": [] },
+          { "value": "杨林街道", "label": "杨林街道", "children": [] },
+          { "value": "白茅湖农场", "label": "白茅湖农场", "children": [] },
+          { "value": "汪场镇", "label": "汪场镇", "children": [] },
+          { "value": "张港镇", "label": "张港镇", "children": [] },
+          { "value": "皂市镇", "label": "皂市镇", "children": [] },
+          { "value": "净潭乡", "label": "净潭乡", "children": [] },
+          { "value": "卢市镇", "label": "卢市镇", "children": [] },
+          { "value": "拖市镇", "label": "拖市镇", "children": [] },
+          { "value": "渔薪镇", "label": "渔薪镇", "children": [] }
+        ]
+      },
+      {
+        "value": "武汉市",
+        "label": "武汉市",
+        "children": [
+          { "label": "武汉市本级", "value": "武汉市本级", "children": [] },
+          { "value": "新洲区", "label": "新洲区", "children": [] },
+          { "value": "黄陂区", "label": "黄陂区", "children": [] },
+          { "value": "蔡甸区", "label": "蔡甸区", "children": [] },
+          { "value": "汉南区", "label": "汉南区", "children": [] },
+          { "value": "武昌区", "label": "武昌区", "children": [] },
+          { "value": "江夏区", "label": "江夏区", "children": [] },
+          { "value": "东西湖区", "label": "东西湖区", "children": [] },
+          { "value": "硚口区", "label": "硚口区", "children": [] },
+          { "value": "汉阳区", "label": "汉阳区", "children": [] },
+          { "value": "青山区", "label": "青山区", "children": [] },
+          { "value": "江汉区", "label": "江汉区", "children": [] },
+          { "value": "江岸区", "label": "江岸区", "children": [] },
+          { "value": "洪山区", "label": "洪山区", "children": [] }
+        ]
+      },
+      {
+        "value": "潜江市",
+        "label": "潜江市",
+        "children": [
+          { "label": "潜江市本级", "value": "潜江市本级", "children": [] },
+          { "value": "积玉口镇", "label": "积玉口镇", "children": [] },
+          { "value": "泰丰街道", "label": "泰丰街道", "children": [] },
+          { "value": "广华街道", "label": "广华街道", "children": [] },
+          { "value": "周矶管理区", "label": "周矶管理区", "children": [] },
+          {
+            "value": "潜江经济开发区",
+            "label": "潜江经济开发区",
+            "children": []
+          },
+          { "value": "高场街道", "label": "高场街道", "children": [] },
+          { "value": "总口管理区", "label": "总口管理区", "children": [] },
+          { "value": "周矶街道", "label": "周矶街道", "children": [] },
+          { "value": "运粮湖管理区", "label": "运粮湖管理区", "children": [] },
+          { "value": "王场镇", "label": "王场镇", "children": [] },
+          { "value": "园林街道", "label": "园林街道", "children": [] },
+          { "value": "白鹭湖管理区", "label": "白鹭湖管理区", "children": [] },
+          { "value": "竹根滩镇", "label": "竹根滩镇", "children": [] },
+          { "value": "渔洋镇", "label": "渔洋镇", "children": [] },
+          { "value": "熊口镇", "label": "熊口镇", "children": [] },
+          { "value": "熊口管理区", "label": "熊口管理区", "children": [] },
+          { "value": "后湖管理区", "label": "后湖管理区", "children": [] },
+          {
+            "value": "江汉石油管理局",
+            "label": "江汉石油管理局",
+            "children": []
+          },
+          { "value": "张金镇", "label": "张金镇", "children": [] },
+          { "value": "杨市街道", "label": "杨市街道", "children": [] },
+          { "value": "老新镇", "label": "老新镇", "children": [] },
+          { "value": "浩口原种场", "label": "浩口原种场", "children": [] },
+          { "value": "龙湾镇", "label": "龙湾镇", "children": [] },
+          { "value": "浩口镇", "label": "浩口镇", "children": [] },
+          { "value": "高石碑镇", "label": "高石碑镇", "children": [] }
+        ]
+      },
+      {
+        "value": "黄冈市",
+        "label": "黄冈市",
+        "children": [
+          { "label": "黄冈市本级", "value": "黄冈市本级", "children": [] },
+          { "value": "麻城市", "label": "麻城市", "children": [] },
+          { "value": "黄州区", "label": "黄州区", "children": [] },
+          { "value": "浠水县", "label": "浠水县", "children": [] },
+          { "value": "红安县", "label": "红安县", "children": [] },
+          { "value": "英山县", "label": "英山县", "children": [] },
+          { "value": "罗田县", "label": "罗田县", "children": [] },
+          { "value": "黄梅县", "label": "黄梅县", "children": [] },
+          { "value": "武穴市", "label": "武穴市", "children": [] },
+          { "value": "团风县", "label": "团风县", "children": [] },
+          { "value": "蕲春县", "label": "蕲春县", "children": [] }
+        ]
+      },
+      {
+        "value": "宜昌市",
+        "label": "宜昌市",
+        "children": [
+          { "label": "宜昌市本级", "value": "宜昌市本级", "children": [] },
+          { "value": "兴山县", "label": "兴山县", "children": [] },
+          { "value": "秭归县", "label": "秭归县", "children": [] },
+          { "value": "当阳市", "label": "当阳市", "children": [] },
+          { "value": "点军区", "label": "点军区", "children": [] },
+          {
+            "value": "长阳土家族自治县",
+            "label": "长阳土家族自治县",
+            "children": []
+          },
+          { "value": "枝江市", "label": "枝江市", "children": [] },
+          { "value": "猇亭区", "label": "猇亭区", "children": [] },
+          {
+            "value": "五峰土家族自治县",
+            "label": "五峰土家族自治县",
+            "children": []
+          },
+          { "value": "宜都市", "label": "宜都市", "children": [] },
+          { "value": "夷陵区", "label": "夷陵区", "children": [] },
+          { "value": "远安县", "label": "远安县", "children": [] },
+          { "value": "西陵区", "label": "西陵区", "children": [] },
+          { "value": "伍家岗区", "label": "伍家岗区", "children": [] }
+        ]
+      },
+      {
+        "value": "仙桃市",
+        "label": "仙桃市",
+        "children": [
+          { "label": "仙桃市本级", "value": "仙桃市本级", "children": [] },
+          { "value": "畜禽良种场", "label": "畜禽良种场", "children": [] },
+          { "value": "工业园区", "label": "工业园区", "children": [] },
+          { "value": "豆河镇", "label": "豆河镇", "children": [] },
+          { "value": "沙湖镇", "label": "沙湖镇", "children": [] },
+          { "value": "通海口镇", "label": "通海口镇", "children": [] },
+          { "value": "长倘口镇", "label": "长倘口镇", "children": [] },
+          { "value": "胡场镇", "label": "胡场镇", "children": [] },
+          { "value": "五湖渔场", "label": "五湖渔场", "children": [] },
+          { "value": "干河街道", "label": "干河街道", "children": [] },
+          { "value": "杨林尾镇", "label": "杨林尾镇", "children": [] },
+          { "value": "西流河镇", "label": "西流河镇", "children": [] },
+          { "value": "赵西垸林场", "label": "赵西垸林场", "children": [] },
+          { "value": "九合垸原种场", "label": "九合垸原种场", "children": [] },
+          { "value": "彭场镇", "label": "彭场镇", "children": [] },
+          { "value": "沔城回族镇", "label": "沔城回族镇", "children": [] },
+          { "value": "龙华山街道", "label": "龙华山街道", "children": [] },
+          { "value": "沙湖原种场", "label": "沙湖原种场", "children": [] },
+          { "value": "陈场镇", "label": "陈场镇", "children": [] },
+          { "value": "郑场镇", "label": "郑场镇", "children": [] },
+          { "value": "郭河镇", "label": "郭河镇", "children": [] },
+          { "value": "排湖风景区", "label": "排湖风景区", "children": [] },
+          { "value": "沙嘴街道", "label": "沙嘴街道", "children": [] },
+          { "value": "张沟镇", "label": "张沟镇", "children": [] },
+          { "value": "毛嘴镇", "label": "毛嘴镇", "children": [] },
+          { "value": "三伏潭镇", "label": "三伏潭镇", "children": [] }
+        ]
+      },
+      {
+        "value": "荆门市",
+        "label": "荆门市",
+        "children": [
+          { "label": "荆门市本级", "value": "荆门市本级", "children": [] },
+          { "value": "东宝区", "label": "东宝区", "children": [] },
+          { "value": "钟祥市", "label": "钟祥市", "children": [] },
+          { "value": "京山市", "label": "京山市", "children": [] },
+          { "value": "掇刀区", "label": "掇刀区", "children": [] },
+          { "value": "沙洋县", "label": "沙洋县", "children": [] }
+        ]
+      },
+      {
+        "value": "孝感市",
+        "label": "孝感市",
+        "children": [
+          { "label": "孝感市本级", "value": "孝感市本级", "children": [] },
+          { "value": "应城市", "label": "应城市", "children": [] },
+          { "value": "云梦县", "label": "云梦县", "children": [] },
+          { "value": "孝南区", "label": "孝南区", "children": [] },
+          { "value": "汉川市", "label": "汉川市", "children": [] },
+          { "value": "孝昌县", "label": "孝昌县", "children": [] },
+          { "value": "安陆市", "label": "安陆市", "children": [] },
+          { "value": "大悟县", "label": "大悟县", "children": [] }
+        ]
+      },
+      {
+        "value": "恩施土家族苗族自治州",
+        "label": "恩施土家族苗族自治州",
+        "children": [
+          {
+            "label": "恩施土家族苗族自治州本级",
+            "value": "恩施土家族苗族自治州本级",
+            "children": []
+          },
+          { "value": "建始县", "label": "建始县", "children": [] },
+          { "value": "恩施市", "label": "恩施市", "children": [] },
+          { "value": "利川市", "label": "利川市", "children": [] },
+          { "value": "鹤峰县", "label": "鹤峰县", "children": [] },
+          { "value": "来凤县", "label": "来凤县", "children": [] },
+          { "value": "巴东县", "label": "巴东县", "children": [] },
+          { "value": "宣恩县", "label": "宣恩县", "children": [] },
+          { "value": "咸丰县", "label": "咸丰县", "children": [] }
+        ]
+      },
+      {
+        "value": "荆州市",
+        "label": "荆州市",
+        "children": [
+          { "label": "荆州市本级", "value": "荆州市本级", "children": [] },
+          { "value": "江陵县", "label": "江陵县", "children": [] },
+          { "value": "监利市", "label": "监利市", "children": [] },
+          { "value": "石首市", "label": "石首市", "children": [] },
+          { "value": "洪湖市", "label": "洪湖市", "children": [] },
+          { "value": "松滋市", "label": "松滋市", "children": [] },
+          { "value": "沙市区", "label": "沙市区", "children": [] },
+          { "value": "公安县", "label": "公安县", "children": [] },
+          { "value": "荆州区", "label": "荆州区", "children": [] }
+        ]
+      },
+      {
+        "value": "咸宁市",
+        "label": "咸宁市",
+        "children": [
+          { "label": "咸宁市本级", "value": "咸宁市本级", "children": [] },
+          { "value": "嘉鱼县", "label": "嘉鱼县", "children": [] },
+          { "value": "通山县", "label": "通山县", "children": [] },
+          { "value": "咸安区", "label": "咸安区", "children": [] },
+          { "value": "赤壁市", "label": "赤壁市", "children": [] },
+          { "value": "通城县", "label": "通城县", "children": [] },
+          { "value": "崇阳县", "label": "崇阳县", "children": [] }
+        ]
+      },
+      {
+        "value": "神农架林区",
+        "label": "神农架林区",
+        "children": [
+          {
+            "label": "神农架林区本级",
+            "value": "神农架林区本级",
+            "children": []
+          },
+          { "value": "木鱼镇", "label": "木鱼镇", "children": [] },
+          {
+            "value": "下谷坪土家族乡",
+            "label": "下谷坪土家族乡",
+            "children": []
+          },
+          { "value": "新华镇", "label": "新华镇", "children": [] },
+          { "value": "大九湖镇", "label": "大九湖镇", "children": [] },
+          { "value": "宋洛乡", "label": "宋洛乡", "children": [] },
+          { "value": "松柏镇", "label": "松柏镇", "children": [] },
+          { "value": "红坪镇", "label": "红坪镇", "children": [] },
+          { "value": "阳日镇", "label": "阳日镇", "children": [] }
+        ]
+      },
+      {
+        "value": "随州市",
+        "label": "随州市",
+        "children": [
+          { "label": "随州市本级", "value": "随州市本级", "children": [] },
+          { "value": "曾都区", "label": "曾都区", "children": [] },
+          { "value": "随县", "label": "随县", "children": [] },
+          { "value": "广水市", "label": "广水市", "children": [] }
+        ]
+      },
+      {
+        "value": "黄石市",
+        "label": "黄石市",
+        "children": [
+          { "label": "黄石市本级", "value": "黄石市本级", "children": [] },
+          { "value": "铁山区", "label": "铁山区", "children": [] },
+          { "value": "下陆区", "label": "下陆区", "children": [] },
+          { "value": "西塞山区", "label": "西塞山区", "children": [] },
+          { "value": "阳新县", "label": "阳新县", "children": [] },
+          { "value": "大冶市", "label": "大冶市", "children": [] },
+          { "value": "黄石港区", "label": "黄石港区", "children": [] }
+        ]
+      },
+      {
+        "value": "鄂州市",
+        "label": "鄂州市",
+        "children": [
+          { "label": "鄂州市本级", "value": "鄂州市本级", "children": [] },
+          { "value": "华容区", "label": "华容区", "children": [] },
+          { "value": "梁子湖区", "label": "梁子湖区", "children": [] },
+          { "value": "鄂城区", "label": "鄂城区", "children": [] }
+        ]
+      }
+    ]
+  },
+  {
+    "value": "陕西省",
+    "label": "陕西省",
+    "children": [
+      { "label": "陕西省本级", "value": "陕西省本级", "children": [] },
+      {
+        "value": "商洛市",
+        "label": "商洛市",
+        "children": [
+          { "label": "商洛市本级", "value": "商洛市本级", "children": [] },
+          { "value": "丹凤县", "label": "丹凤县", "children": [] },
+          { "value": "镇安县", "label": "镇安县", "children": [] },
+          { "value": "商南县", "label": "商南县", "children": [] },
+          { "value": "洛南县", "label": "洛南县", "children": [] },
+          { "value": "商州区", "label": "商州区", "children": [] },
+          { "value": "山阳县", "label": "山阳县", "children": [] },
+          { "value": "柞水县", "label": "柞水县", "children": [] }
+        ]
+      },
+      {
+        "value": "汉中市",
+        "label": "汉中市",
+        "children": [
+          { "label": "汉中市本级", "value": "汉中市本级", "children": [] },
+          { "value": "留坝县", "label": "留坝县", "children": [] },
+          { "value": "佛坪县", "label": "佛坪县", "children": [] },
+          { "value": "洋县", "label": "洋县", "children": [] },
+          { "value": "略阳县", "label": "略阳县", "children": [] },
+          { "value": "西乡县", "label": "西乡县", "children": [] },
+          { "value": "宁强县", "label": "宁强县", "children": [] },
+          { "value": "南郑区", "label": "南郑区", "children": [] },
+          { "value": "城固县", "label": "城固县", "children": [] },
+          { "value": "汉台区", "label": "汉台区", "children": [] },
+          { "value": "勉县", "label": "勉县", "children": [] },
+          { "value": "镇巴县", "label": "镇巴县", "children": [] }
+        ]
+      },
+      {
+        "value": "铜川市",
+        "label": "铜川市",
+        "children": [
+          { "label": "铜川市本级", "value": "铜川市本级", "children": [] },
+          { "value": "耀州区", "label": "耀州区", "children": [] },
+          { "value": "印台区", "label": "印台区", "children": [] },
+          { "value": "宜君县", "label": "宜君县", "children": [] },
+          { "value": "王益区", "label": "王益区", "children": [] }
+        ]
+      },
+      {
+        "value": "榆林市",
+        "label": "榆林市",
+        "children": [
+          { "label": "榆林市本级", "value": "榆林市本级", "children": [] },
+          { "value": "府谷县", "label": "府谷县", "children": [] },
+          { "value": "榆阳区", "label": "榆阳区", "children": [] },
+          { "value": "神木市", "label": "神木市", "children": [] },
+          { "value": "佳县", "label": "佳县", "children": [] },
+          { "value": "吴堡县", "label": "吴堡县", "children": [] },
+          { "value": "靖边县", "label": "靖边县", "children": [] },
+          { "value": "绥德县", "label": "绥德县", "children": [] },
+          { "value": "米脂县", "label": "米脂县", "children": [] },
+          { "value": "横山区", "label": "横山区", "children": [] },
+          { "value": "子洲县", "label": "子洲县", "children": [] },
+          { "value": "清涧县", "label": "清涧县", "children": [] },
+          { "value": "定边县", "label": "定边县", "children": [] }
+        ]
+      },
+      {
+        "value": "延安市",
+        "label": "延安市",
+        "children": [
+          { "label": "延安市本级", "value": "延安市本级", "children": [] },
+          { "value": "子长市", "label": "子长市", "children": [] },
+          { "value": "吴起县", "label": "吴起县", "children": [] },
+          { "value": "安塞区", "label": "安塞区", "children": [] },
+          { "value": "洛川县", "label": "洛川县", "children": [] },
+          { "value": "延川县", "label": "延川县", "children": [] },
+          { "value": "宝塔区", "label": "宝塔区", "children": [] },
+          { "value": "富县", "label": "富县", "children": [] },
+          { "value": "宜川县", "label": "宜川县", "children": [] },
+          { "value": "志丹县", "label": "志丹县", "children": [] },
+          { "value": "延长县", "label": "延长县", "children": [] },
+          { "value": "甘泉县", "label": "甘泉县", "children": [] },
+          { "value": "黄陵县", "label": "黄陵县", "children": [] },
+          { "value": "黄龙县", "label": "黄龙县", "children": [] }
+        ]
+      },
+      {
+        "value": "西安市",
+        "label": "西安市",
+        "children": [
+          { "label": "西安市本级", "value": "西安市本级", "children": [] },
+          { "value": "高陵区", "label": "高陵区", "children": [] },
+          { "value": "鄠邑区", "label": "鄠邑区", "children": [] },
+          { "value": "临潼区", "label": "临潼区", "children": [] },
+          { "value": "灞桥区", "label": "灞桥区", "children": [] },
+          { "value": "未央区", "label": "未央区", "children": [] },
+          { "value": "长安区", "label": "长安区", "children": [] },
+          { "value": "周至县", "label": "周至县", "children": [] },
+          { "value": "蓝田县", "label": "蓝田县", "children": [] },
+          { "value": "雁塔区", "label": "雁塔区", "children": [] },
+          { "value": "阎良区", "label": "阎良区", "children": [] },
+          { "value": "新城区", "label": "新城区", "children": [] },
+          { "value": "莲湖区", "label": "莲湖区", "children": [] },
+          { "value": "碑林区", "label": "碑林区", "children": [] }
+        ]
+      },
+      {
+        "value": "宝鸡市",
+        "label": "宝鸡市",
+        "children": [
+          { "label": "宝鸡市本级", "value": "宝鸡市本级", "children": [] },
+          { "value": "麟游县", "label": "麟游县", "children": [] },
+          { "value": "千阳县", "label": "千阳县", "children": [] },
+          { "value": "陇县", "label": "陇县", "children": [] },
+          { "value": "岐山县", "label": "岐山县", "children": [] },
+          { "value": "渭滨区", "label": "渭滨区", "children": [] },
+          { "value": "金台区", "label": "金台区", "children": [] },
+          { "value": "凤县", "label": "凤县", "children": [] },
+          { "value": "太白县", "label": "太白县", "children": [] },
+          { "value": "凤翔区", "label": "凤翔区", "children": [] },
+          { "value": "陈仓区", "label": "陈仓区", "children": [] },
+          { "value": "眉县", "label": "眉县", "children": [] },
+          { "value": "扶风县", "label": "扶风县", "children": [] }
+        ]
+      },
+      {
+        "value": "安康市",
+        "label": "安康市",
+        "children": [
+          { "label": "安康市本级", "value": "安康市本级", "children": [] },
+          { "value": "石泉县", "label": "石泉县", "children": [] },
+          { "value": "汉阴县", "label": "汉阴县", "children": [] },
+          { "value": "宁陕县", "label": "宁陕县", "children": [] },
+          { "value": "紫阳县", "label": "紫阳县", "children": [] },
+          { "value": "平利县", "label": "平利县", "children": [] },
+          { "value": "岚皋县", "label": "岚皋县", "children": [] },
+          { "value": "镇坪县", "label": "镇坪县", "children": [] },
+          { "value": "旬阳市", "label": "旬阳市", "children": [] },
+          { "value": "白河县", "label": "白河县", "children": [] },
+          { "value": "汉滨区", "label": "汉滨区", "children": [] }
+        ]
+      },
+      {
+        "value": "渭南市",
+        "label": "渭南市",
+        "children": [
+          { "label": "渭南市本级", "value": "渭南市本级", "children": [] },
+          { "value": "韩城市", "label": "韩城市", "children": [] },
+          { "value": "白水县", "label": "白水县", "children": [] },
+          { "value": "潼关县", "label": "潼关县", "children": [] },
+          { "value": "澄城县", "label": "澄城县", "children": [] },
+          { "value": "蒲城县", "label": "蒲城县", "children": [] },
+          { "value": "合阳县", "label": "合阳县", "children": [] },
+          { "value": "华州区", "label": "华州区", "children": [] },
+          { "value": "华阴市", "label": "华阴市", "children": [] },
+          { "value": "大荔县", "label": "大荔县", "children": [] },
+          { "value": "临渭区", "label": "临渭区", "children": [] },
+          { "value": "富平县", "label": "富平县", "children": [] }
+        ]
+      },
+      {
+        "value": "咸阳市",
+        "label": "咸阳市",
+        "children": [
+          { "label": "咸阳市本级", "value": "咸阳市本级", "children": [] },
+          { "value": "永寿县", "label": "永寿县", "children": [] },
+          { "value": "乾县", "label": "乾县", "children": [] },
+          { "value": "渭城区", "label": "渭城区", "children": [] },
+          { "value": "泾阳县", "label": "泾阳县", "children": [] },
+          { "value": "三原县", "label": "三原县", "children": [] },
+          { "value": "淳化县", "label": "淳化县", "children": [] },
+          { "value": "礼泉县", "label": "礼泉县", "children": [] },
+          { "value": "杨陵区", "label": "杨陵区", "children": [] },
+          { "value": "武功县", "label": "武功县", "children": [] },
+          { "value": "兴平市", "label": "兴平市", "children": [] },
+          { "value": "彬州市", "label": "彬州市", "children": [] },
+          { "value": "旬邑县", "label": "旬邑县", "children": [] },
+          { "value": "秦都区", "label": "秦都区", "children": [] },
+          { "value": "长武县", "label": "长武县", "children": [] }
+        ]
+      }
+    ]
+  },
+  {
+    "value": "上海市",
+    "label": "上海市",
+    "children": [
+      { "label": "上海市本级", "value": "上海市本级", "children": [] },
+      {
+        "value": "上海城区",
+        "label": "上海城区",
+        "children": [
+          { "label": "上海城区本级", "value": "上海城区本级", "children": [] },
+          { "value": "浦东新区", "label": "浦东新区", "children": [] },
+          { "value": "崇明区", "label": "崇明区", "children": [] },
+          { "value": "奉贤区", "label": "奉贤区", "children": [] },
+          { "value": "金山区", "label": "金山区", "children": [] },
+          { "value": "嘉定区", "label": "嘉定区", "children": [] },
+          { "value": "普陀区", "label": "普陀区", "children": [] },
+          { "value": "宝山区", "label": "宝山区", "children": [] },
+          { "value": "杨浦区", "label": "杨浦区", "children": [] },
+          { "value": "黄浦区", "label": "黄浦区", "children": [] },
+          { "value": "松江区", "label": "松江区", "children": [] },
+          { "value": "虹口区", "label": "虹口区", "children": [] },
+          { "value": "静安区", "label": "静安区", "children": [] },
+          { "value": "徐汇区", "label": "徐汇区", "children": [] },
+          { "value": "青浦区", "label": "青浦区", "children": [] },
+          { "value": "长宁区", "label": "长宁区", "children": [] },
+          { "value": "闵行区", "label": "闵行区", "children": [] }
+        ]
+      }
+    ]
+  },
+  {
+    "value": "安徽省",
+    "label": "安徽省",
+    "children": [
+      { "label": "安徽省本级", "value": "安徽省本级", "children": [] },
+      {
+        "value": "池州市",
+        "label": "池州市",
+        "children": [
+          { "label": "池州市本级", "value": "池州市本级", "children": [] },
+          { "value": "贵池区", "label": "贵池区", "children": [] },
+          { "value": "石台县", "label": "石台县", "children": [] },
+          { "value": "青阳县", "label": "青阳县", "children": [] },
+          { "value": "东至县", "label": "东至县", "children": [] }
+        ]
+      },
+      {
+        "value": "马鞍山市",
+        "label": "马鞍山市",
+        "children": [
+          { "label": "马鞍山市本级", "value": "马鞍山市本级", "children": [] },
+          { "value": "博望区", "label": "博望区", "children": [] },
+          { "value": "花山区", "label": "花山区", "children": [] },
+          { "value": "雨山区", "label": "雨山区", "children": [] },
+          { "value": "含山县", "label": "含山县", "children": [] },
+          { "value": "当涂县", "label": "当涂县", "children": [] },
+          { "value": "和县", "label": "和县", "children": [] }
+        ]
+      },
+      {
+        "value": "阜阳市",
+        "label": "阜阳市",
+        "children": [
+          { "label": "阜阳市本级", "value": "阜阳市本级", "children": [] },
+          { "value": "颍州区", "label": "颍州区", "children": [] },
+          { "value": "太和县", "label": "太和县", "children": [] },
+          { "value": "临泉县", "label": "临泉县", "children": [] },
+          { "value": "阜南县", "label": "阜南县", "children": [] },
+          { "value": "颍上县", "label": "颍上县", "children": [] },
+          { "value": "界首市", "label": "界首市", "children": [] },
+          { "value": "颍泉区", "label": "颍泉区", "children": [] },
+          { "value": "颍东区", "label": "颍东区", "children": [] }
+        ]
+      },
+      {
+        "value": "淮北市",
+        "label": "淮北市",
+        "children": [
+          { "label": "淮北市本级", "value": "淮北市本级", "children": [] },
+          { "value": "杜集区", "label": "杜集区", "children": [] },
+          { "value": "相山区", "label": "相山区", "children": [] },
+          { "value": "濉溪县", "label": "濉溪县", "children": [] },
+          { "value": "烈山区", "label": "烈山区", "children": [] }
+        ]
+      },
+      {
+        "value": "铜陵市",
+        "label": "铜陵市",
+        "children": [
+          { "label": "铜陵市本级", "value": "铜陵市本级", "children": [] },
+          { "value": "郊区", "label": "郊区", "children": [] },
+          { "value": "义安区", "label": "义安区", "children": [] },
+          { "value": "铜官区", "label": "铜官区", "children": [] },
+          { "value": "枞阳县", "label": "枞阳县", "children": [] }
+        ]
+      },
+      {
+        "value": "黄山市",
+        "label": "黄山市",
+        "children": [
+          { "label": "黄山市本级", "value": "黄山市本级", "children": [] },
+          { "value": "黟县", "label": "黟县", "children": [] },
+          { "value": "黄山区", "label": "黄山区", "children": [] },
+          { "value": "祁门县", "label": "祁门县", "children": [] },
+          { "value": "徽州区", "label": "徽州区", "children": [] },
+          { "value": "屯溪区", "label": "屯溪区", "children": [] },
+          { "value": "休宁县", "label": "休宁县", "children": [] },
+          { "value": "歙县", "label": "歙县", "children": [] }
+        ]
+      },
+      {
+        "value": "安庆市",
+        "label": "安庆市",
+        "children": [
+          { "label": "安庆市本级", "value": "安庆市本级", "children": [] },
+          { "value": "潜山市", "label": "潜山市", "children": [] },
+          { "value": "宜秀区", "label": "宜秀区", "children": [] },
+          { "value": "岳西县", "label": "岳西县", "children": [] },
+          { "value": "迎江区", "label": "迎江区", "children": [] },
+          { "value": "桐城市", "label": "桐城市", "children": [] },
+          { "value": "望江县", "label": "望江县", "children": [] },
+          { "value": "宿松县", "label": "宿松县", "children": [] },
+          { "value": "大观区", "label": "大观区", "children": [] },
+          { "value": "怀宁县", "label": "怀宁县", "children": [] },
+          { "value": "太湖县", "label": "太湖县", "children": [] }
+        ]
+      },
+      {
+        "value": "滁州市",
+        "label": "滁州市",
+        "children": [
+          { "label": "滁州市本级", "value": "滁州市本级", "children": [] },
+          { "value": "明光市", "label": "明光市", "children": [] },
+          { "value": "天长市", "label": "天长市", "children": [] },
+          { "value": "琅琊区", "label": "琅琊区", "children": [] },
+          { "value": "全椒县", "label": "全椒县", "children": [] },
+          { "value": "定远县", "label": "定远县", "children": [] },
+          { "value": "凤阳县", "label": "凤阳县", "children": [] },
+          { "value": "来安县", "label": "来安县", "children": [] },
+          { "value": "南谯区", "label": "南谯区", "children": [] }
+        ]
+      },
+      {
+        "value": "淮南市",
+        "label": "淮南市",
+        "children": [
+          { "label": "淮南市本级", "value": "淮南市本级", "children": [] },
+          { "value": "凤台县", "label": "凤台县", "children": [] },
+          { "value": "八公山区", "label": "八公山区", "children": [] },
+          { "value": "潘集区", "label": "潘集区", "children": [] },
+          { "value": "大通区", "label": "大通区", "children": [] },
+          { "value": "谢家集区", "label": "谢家集区", "children": [] },
+          { "value": "田家庵区", "label": "田家庵区", "children": [] },
+          { "value": "寿县", "label": "寿县", "children": [] }
+        ]
+      },
+      {
+        "value": "六安市",
+        "label": "六安市",
+        "children": [
+          { "label": "六安市本级", "value": "六安市本级", "children": [] },
+          { "value": "霍山县", "label": "霍山县", "children": [] },
+          { "value": "裕安区", "label": "裕安区", "children": [] },
+          { "value": "金寨县", "label": "金寨县", "children": [] },
+          { "value": "金安区", "label": "金安区", "children": [] },
+          { "value": "叶集区", "label": "叶集区", "children": [] },
+          { "value": "霍邱县", "label": "霍邱县", "children": [] },
+          { "value": "舒城县", "label": "舒城县", "children": [] }
+        ]
+      },
+      {
+        "value": "蚌埠市",
+        "label": "蚌埠市",
+        "children": [
+          { "label": "蚌埠市本级", "value": "蚌埠市本级", "children": [] },
+          { "value": "五河县", "label": "五河县", "children": [] },
+          { "value": "淮上区", "label": "淮上区", "children": [] },
+          { "value": "怀远县", "label": "怀远县", "children": [] },
+          { "value": "禹会区", "label": "禹会区", "children": [] },
+          { "value": "蚌山区", "label": "蚌山区", "children": [] },
+          { "value": "龙子湖区", "label": "龙子湖区", "children": [] },
+          { "value": "固镇县", "label": "固镇县", "children": [] }
+        ]
+      },
+      {
+        "value": "宿州市",
+        "label": "宿州市",
+        "children": [
+          { "label": "宿州市本级", "value": "宿州市本级", "children": [] },
+          { "value": "埇桥区", "label": "埇桥区", "children": [] },
+          { "value": "萧县", "label": "萧县", "children": [] },
+          { "value": "砀山县", "label": "砀山县", "children": [] },
+          { "value": "灵璧县", "label": "灵璧县", "children": [] },
+          { "value": "泗县", "label": "泗县", "children": [] }
+        ]
+      },
+      {
+        "value": "亳州市",
+        "label": "亳州市",
+        "children": [
+          { "label": "亳州市本级", "value": "亳州市本级", "children": [] },
+          { "value": "谯城区", "label": "谯城区", "children": [] },
+          { "value": "蒙城县", "label": "蒙城县", "children": [] },
+          { "value": "涡阳县", "label": "涡阳县", "children": [] },
+          { "value": "利辛县", "label": "利辛县", "children": [] }
+        ]
+      },
+      {
+        "value": "芜湖市",
+        "label": "芜湖市",
+        "children": [
+          { "label": "芜湖市本级", "value": "芜湖市本级", "children": [] },
+          { "value": "繁昌区", "label": "繁昌区", "children": [] },
+          { "value": "镜湖区", "label": "镜湖区", "children": [] },
+          { "value": "无为市", "label": "无为市", "children": [] },
+          { "value": "鸠江区", "label": "鸠江区", "children": [] },
+          { "value": "弋江区", "label": "弋江区", "children": [] },
+          { "value": "湾沚区", "label": "湾沚区", "children": [] },
+          { "value": "南陵县", "label": "南陵县", "children": [] }
+        ]
+      },
+      {
+        "value": "合肥市",
+        "label": "合肥市",
+        "children": [
+          { "label": "合肥市本级", "value": "合肥市本级", "children": [] },
+          { "value": "瑶海区", "label": "瑶海区", "children": [] },
+          { "value": "肥东县", "label": "肥东县", "children": [] },
+          { "value": "巢湖市", "label": "巢湖市", "children": [] },
+          { "value": "肥西县", "label": "肥西县", "children": [] },
+          { "value": "长丰县", "label": "长丰县", "children": [] },
+          { "value": "蜀山区", "label": "蜀山区", "children": [] },
+          { "value": "庐江县", "label": "庐江县", "children": [] },
+          { "value": "庐阳区", "label": "庐阳区", "children": [] },
+          { "value": "包河区", "label": "包河区", "children": [] }
+        ]
+      },
+      {
+        "value": "宣城市",
+        "label": "宣城市",
+        "children": [
+          { "label": "宣城市本级", "value": "宣城市本级", "children": [] },
+          { "value": "旌德县", "label": "旌德县", "children": [] },
+          { "value": "宣州区", "label": "宣州区", "children": [] },
+          { "value": "郎溪县", "label": "郎溪县", "children": [] },
+          { "value": "泾县", "label": "泾县", "children": [] },
+          { "value": "绩溪县", "label": "绩溪县", "children": [] },
+          { "value": "宁国市", "label": "宁国市", "children": [] },
+          { "value": "广德市", "label": "广德市", "children": [] }
+        ]
+      }
+    ]
+  },
+  {
+    "value": "浙江省",
+    "label": "浙江省",
+    "children": [
+      { "label": "浙江省本级", "value": "浙江省本级", "children": [] },
+      {
+        "value": "嘉兴市",
+        "label": "嘉兴市",
+        "children": [
+          { "label": "嘉兴市本级", "value": "嘉兴市本级", "children": [] },
+          { "value": "平湖市", "label": "平湖市", "children": [] },
+          { "value": "南湖区", "label": "南湖区", "children": [] },
+          { "value": "嘉善县", "label": "嘉善县", "children": [] },
+          { "value": "秀洲区", "label": "秀洲区", "children": [] },
+          { "value": "桐乡市", "label": "桐乡市", "children": [] },
+          { "value": "海盐县", "label": "海盐县", "children": [] },
+          { "value": "海宁市", "label": "海宁市", "children": [] }
+        ]
+      },
+      {
+        "value": "舟山市",
+        "label": "舟山市",
+        "children": [
+          { "label": "舟山市本级", "value": "舟山市本级", "children": [] },
+          { "value": "嵊泗县", "label": "嵊泗县", "children": [] },
+          { "value": "岱山县", "label": "岱山县", "children": [] },
+          { "value": "定海区", "label": "定海区", "children": [] },
+          { "value": "普陀区", "label": "普陀区", "children": [] }
+        ]
+      },
+      {
+        "value": "宁波市",
+        "label": "宁波市",
+        "children": [
+          { "label": "宁波市本级", "value": "宁波市本级", "children": [] },
+          { "value": "象山县", "label": "象山县", "children": [] },
+          { "value": "北仑区", "label": "北仑区", "children": [] },
+          { "value": "镇海区", "label": "镇海区", "children": [] },
+          { "value": "江北区", "label": "江北区", "children": [] },
+          { "value": "宁海县", "label": "宁海县", "children": [] },
+          { "value": "海曙区", "label": "海曙区", "children": [] },
+          { "value": "奉化区", "label": "奉化区", "children": [] },
+          { "value": "鄞州区", "label": "鄞州区", "children": [] },
+          { "value": "慈溪市", "label": "慈溪市", "children": [] },
+          { "value": "余姚市", "label": "余姚市", "children": [] }
+        ]
+      },
+      {
+        "value": "台州市",
+        "label": "台州市",
+        "children": [
+          { "label": "台州市本级", "value": "台州市本级", "children": [] },
+          { "value": "路桥区", "label": "路桥区", "children": [] },
+          { "value": "椒江区", "label": "椒江区", "children": [] },
+          { "value": "临海市", "label": "临海市", "children": [] },
+          { "value": "玉环市", "label": "玉环市", "children": [] },
+          { "value": "温岭市", "label": "温岭市", "children": [] },
+          { "value": "三门县", "label": "三门县", "children": [] },
+          { "value": "天台县", "label": "天台县", "children": [] },
+          { "value": "黄岩区", "label": "黄岩区", "children": [] },
+          { "value": "仙居县", "label": "仙居县", "children": [] }
+        ]
+      },
+      {
+        "value": "温州市",
+        "label": "温州市",
+        "children": [
+          { "label": "温州市本级", "value": "温州市本级", "children": [] },
+          { "value": "洞头区", "label": "洞头区", "children": [] },
+          { "value": "平阳县", "label": "平阳县", "children": [] },
+          { "value": "苍南县", "label": "苍南县", "children": [] },
+          { "value": "龙港市", "label": "龙港市", "children": [] },
+          { "value": "瑞安市", "label": "瑞安市", "children": [] },
+          { "value": "泰顺县", "label": "泰顺县", "children": [] },
+          { "value": "文成县", "label": "文成县", "children": [] },
+          { "value": "乐清市", "label": "乐清市", "children": [] },
+          { "value": "永嘉县", "label": "永嘉县", "children": [] },
+          { "value": "龙湾区", "label": "龙湾区", "children": [] },
+          { "value": "瓯海区", "label": "瓯海区", "children": [] },
+          { "value": "鹿城区", "label": "鹿城区", "children": [] }
+        ]
+      },
+      {
+        "value": "丽水市",
+        "label": "丽水市",
+        "children": [
+          { "label": "丽水市本级", "value": "丽水市本级", "children": [] },
+          { "value": "松阳县", "label": "松阳县", "children": [] },
+          { "value": "龙泉市", "label": "龙泉市", "children": [] },
+          { "value": "云和县", "label": "云和县", "children": [] },
+          { "value": "遂昌县", "label": "遂昌县", "children": [] },
+          {
+            "value": "景宁畲族自治县",
+            "label": "景宁畲族自治县",
+            "children": []
+          },
+          { "value": "缙云县", "label": "缙云县", "children": [] },
+          { "value": "庆元县", "label": "庆元县", "children": [] },
+          { "value": "青田县", "label": "青田县", "children": [] },
+          { "value": "莲都区", "label": "莲都区", "children": [] }
+        ]
+      },
+      {
+        "value": "金华市",
+        "label": "金华市",
+        "children": [
+          { "label": "金华市本级", "value": "金华市本级", "children": [] },
+          { "value": "永康市", "label": "永康市", "children": [] },
+          { "value": "武义县", "label": "武义县", "children": [] },
+          { "value": "磐安县", "label": "磐安县", "children": [] },
+          { "value": "金东区", "label": "金东区", "children": [] },
+          { "value": "婺城区", "label": "婺城区", "children": [] },
+          { "value": "兰溪市", "label": "兰溪市", "children": [] },
+          { "value": "浦江县", "label": "浦江县", "children": [] },
+          { "value": "东阳市", "label": "东阳市", "children": [] },
+          { "value": "义乌市", "label": "义乌市", "children": [] }
+        ]
+      },
+      {
+        "value": "湖州市",
+        "label": "湖州市",
+        "children": [
+          { "label": "湖州市本级", "value": "湖州市本级", "children": [] },
+          { "value": "长兴县", "label": "长兴县", "children": [] },
+          { "value": "南浔区", "label": "南浔区", "children": [] },
+          { "value": "德清县", "label": "德清县", "children": [] },
+          { "value": "安吉县", "label": "安吉县", "children": [] },
+          { "value": "吴兴区", "label": "吴兴区", "children": [] }
+        ]
+      },
+      {
+        "value": "绍兴市",
+        "label": "绍兴市",
+        "children": [
+          { "label": "绍兴市本级", "value": "绍兴市本级", "children": [] },
+          { "value": "嵊州市", "label": "嵊州市", "children": [] },
+          { "value": "新昌县", "label": "新昌县", "children": [] },
+          { "value": "诸暨市", "label": "诸暨市", "children": [] },
+          { "value": "上虞区", "label": "上虞区", "children": [] },
+          { "value": "柯桥区", "label": "柯桥区", "children": [] },
+          { "value": "越城区", "label": "越城区", "children": [] }
+        ]
+      },
+      {
+        "value": "衢州市",
+        "label": "衢州市",
+        "children": [
+          { "label": "衢州市本级", "value": "衢州市本级", "children": [] },
+          { "value": "柯城区", "label": "柯城区", "children": [] },
+          { "value": "江山市", "label": "江山市", "children": [] },
+          { "value": "龙游县", "label": "龙游县", "children": [] },
+          { "value": "常山县", "label": "常山县", "children": [] },
+          { "value": "开化县", "label": "开化县", "children": [] },
+          { "value": "衢江区", "label": "衢江区", "children": [] }
+        ]
+      },
+      {
+        "value": "杭州市",
+        "label": "杭州市",
+        "children": [
+          { "label": "杭州市本级", "value": "杭州市本级", "children": [] },
+          { "value": "建德市", "label": "建德市", "children": [] },
+          { "value": "萧山区", "label": "萧山区", "children": [] },
+          { "value": "滨江区", "label": "滨江区", "children": [] },
+          { "value": "淳安县", "label": "淳安县", "children": [] },
+          { "value": "临安区", "label": "临安区", "children": [] },
+          { "value": "桐庐县", "label": "桐庐县", "children": [] },
+          { "value": "富阳区", "label": "富阳区", "children": [] },
+          { "value": "余杭区", "label": "余杭区", "children": [] },
+          { "value": "钱塘区", "label": "钱塘区", "children": [] },
+          { "value": "临平区", "label": "临平区", "children": [] },
+          { "value": "拱墅区", "label": "拱墅区", "children": [] },
+          { "value": "西湖区", "label": "西湖区", "children": [] },
+          { "value": "上城区", "label": "上城区", "children": [] }
+        ]
+      }
+    ]
+  },
+  {
+    "value": "河北省",
+    "label": "河北省",
+    "children": [
+      { "label": "河北省本级", "value": "河北省本级", "children": [] },
+      {
+        "value": "唐山市",
+        "label": "唐山市",
+        "children": [
+          { "label": "唐山市本级", "value": "唐山市本级", "children": [] },
+          { "value": "遵化市", "label": "遵化市", "children": [] },
+          { "value": "迁安市", "label": "迁安市", "children": [] },
+          { "value": "迁西县", "label": "迁西县", "children": [] },
+          { "value": "滦州市", "label": "滦州市", "children": [] },
+          { "value": "曹妃甸区", "label": "曹妃甸区", "children": [] },
+          { "value": "滦南县", "label": "滦南县", "children": [] },
+          { "value": "玉田县", "label": "玉田县", "children": [] },
+          { "value": "乐亭县", "label": "乐亭县", "children": [] },
+          { "value": "路南区", "label": "路南区", "children": [] },
+          { "value": "古冶区", "label": "古冶区", "children": [] },
+          { "value": "路北区", "label": "路北区", "children": [] },
+          { "value": "丰南区", "label": "丰南区", "children": [] },
+          { "value": "开平区", "label": "开平区", "children": [] },
+          { "value": "丰润区", "label": "丰润区", "children": [] }
+        ]
+      },
+      {
+        "value": "廊坊市",
+        "label": "廊坊市",
+        "children": [
+          { "label": "廊坊市本级", "value": "廊坊市本级", "children": [] },
+          {
+            "value": "大厂回族自治县",
+            "label": "大厂回族自治县",
+            "children": []
+          },
+          { "value": "大城县", "label": "大城县", "children": [] },
+          { "value": "永清县", "label": "永清县", "children": [] },
+          { "value": "固安县", "label": "固安县", "children": [] },
+          { "value": "香河县", "label": "香河县", "children": [] },
+          { "value": "文安县", "label": "文安县", "children": [] },
+          { "value": "三河市", "label": "三河市", "children": [] },
+          { "value": "安次区", "label": "安次区", "children": [] },
+          { "value": "广阳区", "label": "广阳区", "children": [] },
+          { "value": "霸州市", "label": "霸州市", "children": [] }
+        ]
+      },
+      {
+        "value": "秦皇岛市",
+        "label": "秦皇岛市",
+        "children": [
+          { "label": "秦皇岛市本级", "value": "秦皇岛市本级", "children": [] },
+          {
+            "value": "青龙满族自治县",
+            "label": "青龙满族自治县",
+            "children": []
+          },
+          { "value": "卢龙县", "label": "卢龙县", "children": [] },
+          { "value": "山海关区", "label": "山海关区", "children": [] },
+          { "value": "海港区", "label": "海港区", "children": [] },
+          { "value": "昌黎县", "label": "昌黎县", "children": [] },
+          { "value": "抚宁区", "label": "抚宁区", "children": [] },
+          { "value": "北戴河区", "label": "北戴河区", "children": [] }
+        ]
+      },
+      {
+        "value": "邯郸市",
+        "label": "邯郸市",
+        "children": [
+          { "label": "邯郸市本级", "value": "邯郸市本级", "children": [] },
+          { "value": "肥乡区", "label": "肥乡区", "children": [] },
+          { "value": "涉县", "label": "涉县", "children": [] },
+          { "value": "曲周县", "label": "曲周县", "children": [] },
+          { "value": "鸡泽县", "label": "鸡泽县", "children": [] },
+          { "value": "丛台区", "label": "丛台区", "children": [] },
+          { "value": "永年区", "label": "永年区", "children": [] },
+          { "value": "磁县", "label": "磁县", "children": [] },
+          { "value": "复兴区", "label": "复兴区", "children": [] },
+          { "value": "邯山区", "label": "邯山区", "children": [] },
+          { "value": "馆陶县", "label": "馆陶县", "children": [] },
+          { "value": "邱县", "label": "邱县", "children": [] },
+          { "value": "广平县", "label": "广平县", "children": [] },
+          { "value": "大名县", "label": "大名县", "children": [] },
+          { "value": "武安市", "label": "武安市", "children": [] },
+          { "value": "峰峰矿区", "label": "峰峰矿区", "children": [] },
+          { "value": "临漳县", "label": "临漳县", "children": [] },
+          { "value": "成安县", "label": "成安县", "children": [] },
+          { "value": "魏县", "label": "魏县", "children": [] }
+        ]
+      },
+      {
+        "value": "承德市",
+        "label": "承德市",
+        "children": [
+          { "label": "承德市本级", "value": "承德市本级", "children": [] },
+          {
+            "value": "丰宁满族自治县",
+            "label": "丰宁满族自治县",
+            "children": []
+          },
+          {
+            "value": "围场满族蒙古族自治县",
+            "label": "围场满族蒙古族自治县",
+            "children": []
+          },
+          { "value": "鹰手营子矿区", "label": "鹰手营子矿区", "children": [] },
+          { "value": "隆化县", "label": "隆化县", "children": [] },
+          {
+            "value": "宽城满族自治县",
+            "label": "宽城满族自治县",
+            "children": []
+          },
+          { "value": "兴隆县", "label": "兴隆县", "children": [] },
+          { "value": "平泉市", "label": "平泉市", "children": [] },
+          { "value": "双滦区", "label": "双滦区", "children": [] },
+          { "value": "滦平县", "label": "滦平县", "children": [] },
+          { "value": "双桥区", "label": "双桥区", "children": [] },
+          { "value": "承德县", "label": "承德县", "children": [] }
+        ]
+      },
+      {
+        "value": "沧州市",
+        "label": "沧州市",
+        "children": [
+          { "label": "沧州市本级", "value": "沧州市本级", "children": [] },
+          { "value": "任丘市", "label": "任丘市", "children": [] },
+          { "value": "运河区", "label": "运河区", "children": [] },
+          { "value": "献县", "label": "献县", "children": [] },
+          { "value": "南皮县", "label": "南皮县", "children": [] },
+          { "value": "东光县", "label": "东光县", "children": [] },
+          { "value": "海兴县", "label": "海兴县", "children": [] },
+          { "value": "吴桥县", "label": "吴桥县", "children": [] },
+          { "value": "黄骅市", "label": "黄骅市", "children": [] },
+          { "value": "青县", "label": "青县", "children": [] },
+          { "value": "肃宁县", "label": "肃宁县", "children": [] },
+          { "value": "盐山县", "label": "盐山县", "children": [] },
+          { "value": "河间市", "label": "河间市", "children": [] },
+          {
+            "value": "孟村回族自治县",
+            "label": "孟村回族自治县",
+            "children": []
+          },
+          { "value": "新华区", "label": "新华区", "children": [] },
+          { "value": "沧县", "label": "沧县", "children": [] },
+          { "value": "泊头市", "label": "泊头市", "children": [] }
+        ]
+      },
+      {
+        "value": "邢台市",
+        "label": "邢台市",
+        "children": [
+          { "label": "邢台市本级", "value": "邢台市本级", "children": [] },
+          { "value": "广宗县", "label": "广宗县", "children": [] },
+          { "value": "南宫市", "label": "南宫市", "children": [] },
+          { "value": "柏乡县", "label": "柏乡县", "children": [] },
+          { "value": "清河县", "label": "清河县", "children": [] },
+          { "value": "新河县", "label": "新河县", "children": [] },
+          { "value": "临城县", "label": "临城县", "children": [] },
+          { "value": "内丘县", "label": "内丘县", "children": [] },
+          { "value": "平乡县", "label": "平乡县", "children": [] },
+          { "value": "沙河市", "label": "沙河市", "children": [] },
+          { "value": "南和区", "label": "南和区", "children": [] },
+          { "value": "宁晋县", "label": "宁晋县", "children": [] },
+          { "value": "隆尧县", "label": "隆尧县", "children": [] },
+          { "value": "任泽区", "label": "任泽区", "children": [] },
+          { "value": "巨鹿县", "label": "巨鹿县", "children": [] },
+          { "value": "信都区", "label": "信都区", "children": [] },
+          { "value": "襄都区", "label": "襄都区", "children": [] },
+          { "value": "威县", "label": "威县", "children": [] },
+          { "value": "临西县", "label": "临西县", "children": [] }
+        ]
+      },
+      {
+        "value": "衡水市",
+        "label": "衡水市",
+        "children": [
+          { "label": "衡水市本级", "value": "衡水市本级", "children": [] },
+          { "value": "桃城区", "label": "桃城区", "children": [] },
+          { "value": "深州市", "label": "深州市", "children": [] },
+          { "value": "饶阳县", "label": "饶阳县", "children": [] },
+          { "value": "安平县", "label": "安平县", "children": [] },
+          { "value": "阜城县", "label": "阜城县", "children": [] },
+          { "value": "冀州区", "label": "冀州区", "children": [] },
+          { "value": "故城县", "label": "故城县", "children": [] },
+          { "value": "景县", "label": "景县", "children": [] },
+          { "value": "武邑县", "label": "武邑县", "children": [] },
+          { "value": "武强县", "label": "武强县", "children": [] },
+          { "value": "枣强县", "label": "枣强县", "children": [] }
+        ]
+      },
+      {
+        "value": "张家口市",
+        "label": "张家口市",
+        "children": [
+          { "label": "张家口市本级", "value": "张家口市本级", "children": [] },
+          { "value": "康保县", "label": "康保县", "children": [] },
+          { "value": "沽源县", "label": "沽源县", "children": [] },
+          { "value": "张北县", "label": "张北县", "children": [] },
+          { "value": "崇礼区", "label": "崇礼区", "children": [] },
+          { "value": "万全区", "label": "万全区", "children": [] },
+          { "value": "尚义县", "label": "尚义县", "children": [] },
+          { "value": "赤城县", "label": "赤城县", "children": [] },
+          { "value": "下花园区", "label": "下花园区", "children": [] },
+          { "value": "涿鹿县", "label": "涿鹿县", "children": [] },
+          { "value": "怀来县", "label": "怀来县", "children": [] },
+          { "value": "桥东区", "label": "桥东区", "children": [] },
+          { "value": "桥西区", "label": "桥西区", "children": [] },
+          { "value": "宣化区", "label": "宣化区", "children": [] },
+          { "value": "蔚县", "label": "蔚县", "children": [] },
+          { "value": "阳原县", "label": "阳原县", "children": [] },
+          { "value": "怀安县", "label": "怀安县", "children": [] }
+        ]
+      },
+      {
+        "value": "保定市",
+        "label": "保定市",
+        "children": [
+          { "label": "保定市本级", "value": "保定市本级", "children": [] },
+          { "value": "涞源县", "label": "涞源县", "children": [] },
+          { "value": "徐水区", "label": "徐水区", "children": [] },
+          { "value": "高阳县", "label": "高阳县", "children": [] },
+          { "value": "易县", "label": "易县", "children": [] },
+          { "value": "顺平县", "label": "顺平县", "children": [] },
+          { "value": "安新县", "label": "安新县", "children": [] },
+          { "value": "竞秀区", "label": "竞秀区", "children": [] },
+          { "value": "安国市", "label": "安国市", "children": [] },
+          { "value": "定州市", "label": "定州市", "children": [] },
+          { "value": "莲池区", "label": "莲池区", "children": [] },
+          { "value": "涞水县", "label": "涞水县", "children": [] },
+          { "value": "涿州市", "label": "涿州市", "children": [] },
+          { "value": "阜平县", "label": "阜平县", "children": [] },
+          { "value": "望都县", "label": "望都县", "children": [] },
+          { "value": "唐县", "label": "唐县", "children": [] },
+          { "value": "容城县", "label": "容城县", "children": [] },
+          { "value": "高碑店市", "label": "高碑店市", "children": [] },
+          { "value": "定兴县", "label": "定兴县", "children": [] },
+          { "value": "雄县", "label": "雄县", "children": [] },
+          { "value": "清苑区", "label": "清苑区", "children": [] },
+          { "value": "满城区", "label": "满城区", "children": [] },
+          { "value": "博野县", "label": "博野县", "children": [] },
+          { "value": "蠡县", "label": "蠡县", "children": [] },
+          { "value": "曲阳县", "label": "曲阳县", "children": [] }
+        ]
+      },
+      {
+        "value": "石家庄市",
+        "label": "石家庄市",
+        "children": [
+          { "label": "石家庄市本级", "value": "石家庄市本级", "children": [] },
+          { "value": "灵寿县", "label": "灵寿县", "children": [] },
+          { "value": "藁城区", "label": "藁城区", "children": [] },
+          { "value": "正定县", "label": "正定县", "children": [] },
+          { "value": "晋州市", "label": "晋州市", "children": [] },
+          { "value": "无极县", "label": "无极县", "children": [] },
+          { "value": "元氏县", "label": "元氏县", "children": [] },
+          { "value": "赞皇县", "label": "赞皇县", "children": [] },
+          { "value": "高邑县", "label": "高邑县", "children": [] },
+          { "value": "新乐市", "label": "新乐市", "children": [] },
+          { "value": "辛集市", "label": "辛集市", "children": [] },
+          { "value": "井陉矿区", "label": "井陉矿区", "children": [] },
+          { "value": "井陉县", "label": "井陉县", "children": [] },
+          { "value": "深泽县", "label": "深泽县", "children": [] },
+          { "value": "栾城区", "label": "栾城区", "children": [] },
+          { "value": "行唐县", "label": "行唐县", "children": [] },
+          { "value": "赵县", "label": "赵县", "children": [] },
+          { "value": "新华区", "label": "新华区", "children": [] },
+          { "value": "长安区", "label": "长安区", "children": [] },
+          { "value": "裕华区", "label": "裕华区", "children": [] },
+          { "value": "平山县", "label": "平山县", "children": [] },
+          { "value": "鹿泉区", "label": "鹿泉区", "children": [] },
+          { "value": "桥西区", "label": "桥西区", "children": [] }
+        ]
+      }
+    ]
+  },
+  {
+    "value": "四川省",
+    "label": "四川省",
+    "children": [
+      { "label": "四川省本级", "value": "四川省本级", "children": [] },
+      {
+        "value": "绵阳市",
+        "label": "绵阳市",
+        "children": [
+          { "label": "绵阳市本级", "value": "绵阳市本级", "children": [] },
+          { "value": "江油市", "label": "江油市", "children": [] },
+          { "value": "游仙区", "label": "游仙区", "children": [] },
+          { "value": "梓潼县", "label": "梓潼县", "children": [] },
+          { "value": "三台县", "label": "三台县", "children": [] },
+          { "value": "盐亭县", "label": "盐亭县", "children": [] },
+          { "value": "涪城区", "label": "涪城区", "children": [] },
+          { "value": "平武县", "label": "平武县", "children": [] },
+          {
+            "value": "北川羌族自治县",
+            "label": "北川羌族自治县",
+            "children": []
+          },
+          { "value": "安州区", "label": "安州区", "children": [] }
+        ]
+      },
+      {
+        "value": "广元市",
+        "label": "广元市",
+        "children": [
+          { "label": "广元市本级", "value": "广元市本级", "children": [] },
+          { "value": "昭化区", "label": "昭化区", "children": [] },
+          { "value": "朝天区", "label": "朝天区", "children": [] },
+          { "value": "苍溪县", "label": "苍溪县", "children": [] },
+          { "value": "剑阁县", "label": "剑阁县", "children": [] },
+          { "value": "旺苍县", "label": "旺苍县", "children": [] },
+          { "value": "青川县", "label": "青川县", "children": [] },
+          { "value": "利州区", "label": "利州区", "children": [] }
+        ]
+      },
+      {
+        "value": "成都市",
+        "label": "成都市",
+        "children": [
+          { "label": "成都市本级", "value": "成都市本级", "children": [] },
+          { "value": "彭州市", "label": "彭州市", "children": [] },
+          { "value": "都江堰市", "label": "都江堰市", "children": [] },
+          { "value": "崇州市", "label": "崇州市", "children": [] },
+          { "value": "青白江区", "label": "青白江区", "children": [] },
+          { "value": "大邑县", "label": "大邑县", "children": [] },
+          { "value": "蒲江县", "label": "蒲江县", "children": [] },
+          { "value": "简阳市", "label": "简阳市", "children": [] },
+          { "value": "金堂县", "label": "金堂县", "children": [] },
+          { "value": "邛崃市", "label": "邛崃市", "children": [] },
+          { "value": "温江区", "label": "温江区", "children": [] },
+          { "value": "双流区", "label": "双流区", "children": [] },
+          { "value": "锦江区", "label": "锦江区", "children": [] },
+          { "value": "龙泉驿区", "label": "龙泉驿区", "children": [] },
+          { "value": "郫都区", "label": "郫都区", "children": [] },
+          { "value": "成华区", "label": "成华区", "children": [] },
+          { "value": "青羊区", "label": "青羊区", "children": [] },
+          { "value": "新津区", "label": "新津区", "children": [] },
+          { "value": "武侯区", "label": "武侯区", "children": [] },
+          { "value": "新都区", "label": "新都区", "children": [] },
+          { "value": "金牛区", "label": "金牛区", "children": [] }
+        ]
+      },
+      {
+        "value": "巴中市",
+        "label": "巴中市",
+        "children": [
+          { "label": "巴中市本级", "value": "巴中市本级", "children": [] },
+          { "value": "通江县", "label": "通江县", "children": [] },
+          { "value": "巴州区", "label": "巴州区", "children": [] },
+          { "value": "平昌县", "label": "平昌县", "children": [] },
+          { "value": "南江县", "label": "南江县", "children": [] },
+          { "value": "恩阳区", "label": "恩阳区", "children": [] }
+        ]
+      },
+      {
+        "value": "南充市",
+        "label": "南充市",
+        "children": [
+          { "label": "南充市本级", "value": "南充市本级", "children": [] },
+          { "value": "蓬安县", "label": "蓬安县", "children": [] },
+          { "value": "南部县", "label": "南部县", "children": [] },
+          { "value": "营山县", "label": "营山县", "children": [] },
+          { "value": "嘉陵区", "label": "嘉陵区", "children": [] },
+          { "value": "西充县", "label": "西充县", "children": [] },
+          { "value": "仪陇县", "label": "仪陇县", "children": [] },
+          { "value": "高坪区", "label": "高坪区", "children": [] },
+          { "value": "顺庆区", "label": "顺庆区", "children": [] },
+          { "value": "阆中市", "label": "阆中市", "children": [] }
+        ]
+      },
+      {
+        "value": "达州市",
+        "label": "达州市",
+        "children": [
+          { "label": "达州市本级", "value": "达州市本级", "children": [] },
+          { "value": "大竹县", "label": "大竹县", "children": [] },
+          { "value": "宣汉县", "label": "宣汉县", "children": [] },
+          { "value": "渠县", "label": "渠县", "children": [] },
+          { "value": "开江县", "label": "开江县", "children": [] },
+          { "value": "万源市", "label": "万源市", "children": [] },
+          { "value": "通川区", "label": "通川区", "children": [] },
+          { "value": "达川区", "label": "达川区", "children": [] }
+        ]
+      },
+      {
+        "value": "遂宁市",
+        "label": "遂宁市",
+        "children": [
+          { "label": "遂宁市本级", "value": "遂宁市本级", "children": [] },
+          { "value": "射洪市", "label": "射洪市", "children": [] },
+          { "value": "大英县", "label": "大英县", "children": [] },
+          { "value": "安居区", "label": "安居区", "children": [] },
+          { "value": "船山区", "label": "船山区", "children": [] },
+          { "value": "蓬溪县", "label": "蓬溪县", "children": [] }
+        ]
+      },
+      {
+        "value": "德阳市",
+        "label": "德阳市",
+        "children": [
+          { "label": "德阳市本级", "value": "德阳市本级", "children": [] },
+          { "value": "旌阳区", "label": "旌阳区", "children": [] },
+          { "value": "中江县", "label": "中江县", "children": [] },
+          { "value": "什邡市", "label": "什邡市", "children": [] },
+          { "value": "罗江区", "label": "罗江区", "children": [] },
+          { "value": "绵竹市", "label": "绵竹市", "children": [] },
+          { "value": "广汉市", "label": "广汉市", "children": [] }
+        ]
+      },
+      {
+        "value": "广安市",
+        "label": "广安市",
+        "children": [
+          { "label": "广安市本级", "value": "广安市本级", "children": [] },
+          { "value": "邻水县", "label": "邻水县", "children": [] },
+          { "value": "武胜县", "label": "武胜县", "children": [] },
+          { "value": "广安区", "label": "广安区", "children": [] },
+          { "value": "华蓥市", "label": "华蓥市", "children": [] },
+          { "value": "前锋区", "label": "前锋区", "children": [] },
+          { "value": "岳池县", "label": "岳池县", "children": [] }
+        ]
+      },
+      {
+        "value": "资阳市",
+        "label": "资阳市",
+        "children": [
+          { "label": "资阳市本级", "value": "资阳市本级", "children": [] },
+          { "value": "乐至县", "label": "乐至县", "children": [] },
+          { "value": "安岳县", "label": "安岳县", "children": [] },
+          { "value": "雁江区", "label": "雁江区", "children": [] }
+        ]
+      },
+      {
+        "value": "内江市",
+        "label": "内江市",
+        "children": [
+          { "label": "内江市本级", "value": "内江市本级", "children": [] },
+          { "value": "资中县", "label": "资中县", "children": [] },
+          { "value": "东兴区", "label": "东兴区", "children": [] },
+          { "value": "威远县", "label": "威远县", "children": [] },
+          { "value": "隆昌市", "label": "隆昌市", "children": [] },
+          { "value": "市中区", "label": "市中区", "children": [] }
+        ]
+      },
+      {
+        "value": "凉山彝族自治州",
+        "label": "凉山彝族自治州",
+        "children": [
+          {
+            "label": "凉山彝族自治州本级",
+            "value": "凉山彝族自治州本级",
+            "children": []
+          },
+          { "value": "冕宁县", "label": "冕宁县", "children": [] },
+          { "value": "喜德县", "label": "喜德县", "children": [] },
+          { "value": "金阳县", "label": "金阳县", "children": [] },
+          { "value": "会理市", "label": "会理市", "children": [] },
+          { "value": "雷波县", "label": "雷波县", "children": [] },
+          { "value": "甘洛县", "label": "甘洛县", "children": [] },
+          { "value": "普格县", "label": "普格县", "children": [] },
+          { "value": "美姑县", "label": "美姑县", "children": [] },
+          {
+            "value": "木里藏族自治县",
+            "label": "木里藏族自治县",
+            "children": []
+          },
+          { "value": "越西县", "label": "越西县", "children": [] },
+          { "value": "布拖县", "label": "布拖县", "children": [] },
+          { "value": "会东县", "label": "会东县", "children": [] },
+          { "value": "盐源县", "label": "盐源县", "children": [] },
+          { "value": "德昌县", "label": "德昌县", "children": [] },
+          { "value": "宁南县", "label": "宁南县", "children": [] },
+          { "value": "西昌市", "label": "西昌市", "children": [] },
+          { "value": "昭觉县", "label": "昭觉县", "children": [] }
+        ]
+      },
+      {
+        "value": "攀枝花市",
+        "label": "攀枝花市",
+        "children": [
+          { "label": "攀枝花市本级", "value": "攀枝花市本级", "children": [] },
+          { "value": "米易县", "label": "米易县", "children": [] },
+          { "value": "西区", "label": "西区", "children": [] },
+          { "value": "盐边县", "label": "盐边县", "children": [] },
+          { "value": "仁和区", "label": "仁和区", "children": [] },
+          { "value": "东区", "label": "东区", "children": [] }
+        ]
+      },
+      {
+        "value": "乐山市",
+        "label": "乐山市",
+        "children": [
+          { "label": "乐山市本级", "value": "乐山市本级", "children": [] },
+          { "value": "沙湾区", "label": "沙湾区", "children": [] },
+          { "value": "夹江县", "label": "夹江县", "children": [] },
+          { "value": "五通桥区", "label": "五通桥区", "children": [] },
+          { "value": "井研县", "label": "井研县", "children": [] },
+          { "value": "金口河区", "label": "金口河区", "children": [] },
+          { "value": "沐川县", "label": "沐川县", "children": [] },
+          {
+            "value": "峨边彝族自治县",
+            "label": "峨边彝族自治县",
+            "children": []
+          },
+          { "value": "犍为县", "label": "犍为县", "children": [] },
+          {
+            "value": "马边彝族自治县",
+            "label": "马边彝族自治县",
+            "children": []
+          },
+          { "value": "市中区", "label": "市中区", "children": [] },
+          { "value": "峨眉山市", "label": "峨眉山市", "children": [] }
+        ]
+      },
+      {
+        "value": "泸州市",
+        "label": "泸州市",
+        "children": [
+          { "label": "泸州市本级", "value": "泸州市本级", "children": [] },
+          { "value": "纳溪区", "label": "纳溪区", "children": [] },
+          { "value": "泸县", "label": "泸县", "children": [] },
+          { "value": "龙马潭区", "label": "龙马潭区", "children": [] },
+          { "value": "叙永县", "label": "叙永县", "children": [] },
+          { "value": "古蔺县", "label": "古蔺县", "children": [] },
+          { "value": "江阳区", "label": "江阳区", "children": [] },
+          { "value": "合江县", "label": "合江县", "children": [] }
+        ]
+      },
+      {
+        "value": "眉山市",
+        "label": "眉山市",
+        "children": [
+          { "label": "眉山市本级", "value": "眉山市本级", "children": [] },
+          { "value": "仁寿县", "label": "仁寿县", "children": [] },
+          { "value": "丹棱县", "label": "丹棱县", "children": [] },
+          { "value": "洪雅县", "label": "洪雅县", "children": [] },
+          { "value": "青神县", "label": "青神县", "children": [] },
+          { "value": "东坡区", "label": "东坡区", "children": [] },
+          { "value": "彭山区", "label": "彭山区", "children": [] }
+        ]
+      },
+      {
+        "value": "自贡市",
+        "label": "自贡市",
+        "children": [
+          { "label": "自贡市本级", "value": "自贡市本级", "children": [] },
+          { "value": "富顺县", "label": "富顺县", "children": [] },
+          { "value": "大安区", "label": "大安区", "children": [] },
+          { "value": "沿滩区", "label": "沿滩区", "children": [] },
+          { "value": "自流井区", "label": "自流井区", "children": [] },
+          { "value": "贡井区", "label": "贡井区", "children": [] },
+          { "value": "荣县", "label": "荣县", "children": [] }
+        ]
+      },
+      {
+        "value": "宜宾市",
+        "label": "宜宾市",
+        "children": [
+          { "label": "宜宾市本级", "value": "宜宾市本级", "children": [] },
+          { "value": "筠连县", "label": "筠连县", "children": [] },
+          { "value": "南溪区", "label": "南溪区", "children": [] },
+          { "value": "珙县", "label": "珙县", "children": [] },
+          { "value": "兴文县", "label": "兴文县", "children": [] },
+          { "value": "高县", "label": "高县", "children": [] },
+          { "value": "江安县", "label": "江安县", "children": [] },
+          { "value": "翠屏区", "label": "翠屏区", "children": [] },
+          { "value": "长宁县", "label": "长宁县", "children": [] },
+          { "value": "屏山县", "label": "屏山县", "children": [] },
+          { "value": "叙州区", "label": "叙州区", "children": [] }
+        ]
+      },
+      {
+        "value": "甘孜藏族自治州",
+        "label": "甘孜藏族自治州",
+        "children": [
+          {
+            "label": "甘孜藏族自治州本级",
+            "value": "甘孜藏族自治州本级",
+            "children": []
+          },
+          { "value": "石渠县", "label": "石渠县", "children": [] },
+          { "value": "甘孜县", "label": "甘孜县", "children": [] },
+          { "value": "德格县", "label": "德格县", "children": [] },
+          { "value": "炉霍县", "label": "炉霍县", "children": [] },
+          { "value": "新龙县", "label": "新龙县", "children": [] },
+          { "value": "白玉县", "label": "白玉县", "children": [] },
+          { "value": "道孚县", "label": "道孚县", "children": [] },
+          { "value": "康定市", "label": "康定市", "children": [] },
+          { "value": "理塘县", "label": "理塘县", "children": [] },
+          { "value": "巴塘县", "label": "巴塘县", "children": [] },
+          { "value": "雅江县", "label": "雅江县", "children": [] },
+          { "value": "稻城县", "label": "稻城县", "children": [] },
+          { "value": "乡城县", "label": "乡城县", "children": [] },
+          { "value": "九龙县", "label": "九龙县", "children": [] },
+          { "value": "得荣县", "label": "得荣县", "children": [] },
+          { "value": "丹巴县", "label": "丹巴县", "children": [] },
+          { "value": "色达县", "label": "色达县", "children": [] },
+          { "value": "泸定县", "label": "泸定县", "children": [] }
+        ]
+      },
+      {
+        "value": "阿坝藏族羌族自治州",
+        "label": "阿坝藏族羌族自治州",
+        "children": [
+          {
+            "label": "阿坝藏族羌族自治州本级",
+            "value": "阿坝藏族羌族自治州本级",
+            "children": []
+          },
+          { "value": "九寨沟县", "label": "九寨沟县", "children": [] },
+          { "value": "阿坝县", "label": "阿坝县", "children": [] },
+          { "value": "红原县", "label": "红原县", "children": [] },
+          { "value": "马尔康市", "label": "马尔康市", "children": [] },
+          { "value": "黑水县", "label": "黑水县", "children": [] },
+          { "value": "金川县", "label": "金川县", "children": [] },
+          { "value": "理县", "label": "理县", "children": [] },
+          { "value": "汶川县", "label": "汶川县", "children": [] },
+          { "value": "茂县", "label": "茂县", "children": [] },
+          { "value": "壤塘县", "label": "壤塘县", "children": [] },
+          { "value": "松潘县", "label": "松潘县", "children": [] },
+          { "value": "小金县", "label": "小金县", "children": [] },
+          { "value": "若尔盖县", "label": "若尔盖县", "children": [] }
+        ]
+      },
+      {
+        "value": "雅安市",
+        "label": "雅安市",
+        "children": [
+          { "label": "雅安市本级", "value": "雅安市本级", "children": [] },
+          { "value": "芦山县", "label": "芦山县", "children": [] },
+          { "value": "宝兴县", "label": "宝兴县", "children": [] },
+          { "value": "天全县", "label": "天全县", "children": [] },
+          { "value": "荥经县", "label": "荥经县", "children": [] },
+          { "value": "雨城区", "label": "雨城区", "children": [] },
+          { "value": "石棉县", "label": "石棉县", "children": [] },
+          { "value": "名山区", "label": "名山区", "children": [] },
+          { "value": "汉源县", "label": "汉源县", "children": [] }
+        ]
+      }
+    ]
+  },
+  {
+    "value": "北京市",
+    "label": "北京市",
+    "children": [
+      { "label": "北京市本级", "value": "北京市本级", "children": [] },
+      {
+        "value": "北京城区",
+        "label": "北京城区",
+        "children": [
+          { "label": "北京城区本级", "value": "北京城区本级", "children": [] },
+          { "value": "延庆区", "label": "延庆区", "children": [] },
+          { "value": "怀柔区", "label": "怀柔区", "children": [] },
+          { "value": "门头沟区", "label": "门头沟区", "children": [] },
+          { "value": "顺义区", "label": "顺义区", "children": [] },
+          { "value": "平谷区", "label": "平谷区", "children": [] },
+          { "value": "朝阳区", "label": "朝阳区", "children": [] },
+          { "value": "东城区", "label": "东城区", "children": [] },
+          { "value": "通州区", "label": "通州区", "children": [] },
+          { "value": "大兴区", "label": "大兴区", "children": [] },
+          { "value": "密云区", "label": "密云区", "children": [] },
+          { "value": "房山区", "label": "房山区", "children": [] },
+          { "value": "西城区", "label": "西城区", "children": [] },
+          { "value": "海淀区", "label": "海淀区", "children": [] },
+          { "value": "石景山区", "label": "石景山区", "children": [] },
+          { "value": "昌平区", "label": "昌平区", "children": [] },
+          { "value": "丰台区", "label": "丰台区", "children": [] }
+        ]
+      }
+    ]
+  }
+]
